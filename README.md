@@ -1,6 +1,9 @@
-A Front-end Development Student At Noroff Bergen 
+Hello There, My Name Is Amelia K. Bujar
 
-- 🔭 I’m currently working on Star Wars Based Project Named "Coruscant Inteligence Agency" 
-    You Can Follow It Here https://github.com/DarthCoursucant/Galatical-Intelligence-Agency-Project
+## ABOUT ME
+- I'm A Front-end Development Student At [Noroff Bergen](https://www.noroff.no/?utm_source=google&utm_medium=sea&utm_campaign=Search&utm_content=brand&gad_source=1&gclid=CjwKCAjwyJqzBhBaEiwAWDRJVDq_g-_3W_j6xphpB4Rl-w-sfnomsjOwfuMlQHgpLbK-LOMt3MsG1BoCwD0QAvD_BwE)
 
-- 🌱 Open To Collborations 
+## PROJECT I'VE DONE
+- [Galaxtical Inteligence Agnecy](https://github.com/DarthCoursucant/Galatical-Intelligence-Agency-Project)
+- [Sqaure Eyes Project](https://github.com/DarthCoursucant/Square-Eyes-Project)
+- [Community Science Museum](https://github.com/DarthCoursucant/Community-Science-Museum-Project)
