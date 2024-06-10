@@ -12,4 +12,6 @@ Hello There, My Name Is Amelia K. Bujar
 - [Community Science Museum](https://github.com/DarthCoursucant/Community-Science-Museum-Project)
 
 ## You Can Contact Me At
--[Email Me]()
+-[Email Me](mailto:ameliakingabujar2002@gmail.com)
+-[Linkedin]["https://www.linkedin.com/in/amelia-bujar-173934192/]
+-[Instagram](https://www.instagram.com/ameliakbujar/)
