@@ -1,4 +1,5 @@
-A Front-end Development Student At Noroff Bergen 
+Hello There, My Name Is Amelia K. Bujar
 
-- 🔭 I’m currently working on Star Wars Based Project Named "Coruscant Inteligence Agency"
-- 🌱 I’m currently learning to master HTML, CSS & JavaScript
+##About Me
+- Front-End Development Student @ [Noroff Bergen](https://www.noroff.no/?utm_source=google&utm_medium=sea&utm_campaign=Search&utm_content=brand&gad_source=1&gclid=CjwKCAjwyJqzBhBaEiwAWDRJVDq_g-_3W_j6xphpB4Rl-w-sfnomsjOwfuMlQHgpLbK-LOMt3MsG1BoCwD0QAvD_BwE)
+- 
